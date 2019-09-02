@@ -1,2 +1,2 @@
 # labyrinthus
-A Unity based maze game
+A Unity based maze game.
